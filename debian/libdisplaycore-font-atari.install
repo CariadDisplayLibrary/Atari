@@ -1,2 +1,2 @@
-Atari.cpp libraries/DisplayCore/Atari
-Atari.h libraries/DisplayCore/Atari
+src libraries/DisplayCore/Atari
+library.properties libraries/DisplayCore/Atari
