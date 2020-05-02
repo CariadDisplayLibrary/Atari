@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Atari 
 
-![Atari](https://raw.githubusercontent.com/DisplayCore/Atari/master/Preview/Atari.png)
+![Atari](https://raw.githubusercontent.com/Cariad/Atari/master/Preview/Atari.png)
 
